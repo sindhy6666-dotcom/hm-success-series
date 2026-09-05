@@ -1,0 +1,2 @@
+- [Shared file API storage](shared-file-api.md) — Return metadata from list endpoints; fetch file bytes on demand and normalize multipart errors.
+- [HM Success Series auth boundary](znotes-auth.md) — Keep the landing page public, protect the notes portal and all mutations with Clerk, and preserve public reads/downloads.
